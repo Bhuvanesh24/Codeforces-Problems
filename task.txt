@@ -1,0 +1,67 @@
+1.	next permutation 
+	2.	Spiral matrix 
+	3.	Longest substring without repeating characters 
+	4.	Remove linked list elements 
+	5.	Palindrome linked list
+
+1.	Minimum path sum
+	2.	Validate binary search tree
+	3.	Word ladder
+	4.	Word ladder -II
+	5.	Course schedule 
+	6.	Design tic tac toe
+
+1.Bubble Sort
+2.Quick Sort
+3.Non-repeating characters
+4.Edit Distance
+5.k largest elements
+6.form the largest number
+
+1.Stock buy and sell
+2. Coin change
+3.first and last occurence
+4.FInd Transition Point
+5.First repeating elements
+6.Remove Duplicate elements in a sorted array
+7.Maximum Index
+8.Wave array
+
+0-1 knapsack problem
+Floor in sorted array
+Check equal arrays 
+Palindrome linked list
+Balanced tree check
+Triplet sum in array
+
+1.	A character is a vowel or consonant
+2.	A character is an alphabet or not
+3.	Ascii values of a character
+4.	Uppercase, Lowercase or special character
+5.	A number is positive or negative
+6.	A number is even or odd
+7.	Swap two numbers without third variable
+8.	Area of a circle
+9.	LCM of two numbers
+10.	GCD of two numbers
+11.	Greatest of two numbers
+12.	Greatest of three numbers
+13.	Number of digits in an integer
+14.	Sum of digits of a number
+15.	Sum of N natural numbers
+16.	Sum of numbers in a given range Reverse a given number
+17.	Factorial of a number
+18.	Fibonacci series up ton
+19.	Leap year or not
+20.	Prime number or not
+21.	Palindrome or not
+22.	Armstrong number or not
+23.	Strong number or not
+24.	Perfect number or not
+25.	Friendly pair or not (amicable or not)
+26.	Automorphic number or not
+27.	Harshad number or not
+28.	Abundant number or not
+29.	Power of a number
+30.	Factors of a number
+31.	Add two fractions
