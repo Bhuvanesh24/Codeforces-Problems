@@ -65,3 +65,15 @@ Triplet sum in array
 29.	Power of a number
 30.	Factors of a number
 31.	Add two fractions
+
+
+Problems for the day: Leetcode
+16
+45
+49
+91
+122
+200
+Quick Sort
+Merge sort
+Ternary Search
