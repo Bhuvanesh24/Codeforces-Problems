@@ -1,15 +1,15 @@
 1.	next permutation 
-	2.	Spiral matrix 
-	3.	Longest substring without repeating characters 
-	4.	Remove linked list elements 
-	5.	Palindrome linked list
+2.	Spiral matrix 
+3.	Longest substring without repeating characters 
+4.	Remove linked list elements 
+5.	Palindrome linked list
 
 1.	Minimum path sum
-	2.	Validate binary search tree
-	3.	Word ladder
-	4.	Word ladder -II
-	5.	Course schedule 
-	6.	Design tic tac toe
+2.	Validate binary search tree
+3.	Word ladder
+4.	Word ladder -II
+5.	Course schedule 
+6.	Design tic tac toe
 
 1.Bubble Sort
 2.Quick Sort
@@ -77,3 +77,33 @@ Problems for the day: Leetcode
 Quick Sort
 Merge sort
 Ternary Search
+
+Two Pointers:
+Valid Palindrome
+Is subsequence
+Two Sum II Input Array Is Sorted
+3SUM
+Container with most water
+
+Sliding Window:
+Longest substring without repeating characters
+Minimum Window substring
+substring with concatenation
+Minimum size subarray
+
+Stack:
+Valid parentheses
+Simplify path
+Min Stack
+Evaluate Reverse Polish
+Basic Calculator
+
+binary Search
+search insert position
+search a 2D matrix
+FInd Peak elements
+Search in a rotated sorted array
+find Minimum in a rotated sorted array
+find first and last positives
+
+
